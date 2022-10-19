@@ -1,5 +1,5 @@
 # HanoiTower
-No graphics Hanoi Tower game with solution generator in python. Includes solution generator and play options taking simple inputs. 
+No graphics Hanoi Tower game with solution generator in python. Includes solution generator and play options taking simple inputs. Started in CECS 274
 
 ## Game Info
 - Hanoi is a simple game where you start out with three rods and a number of discs, each of unique size. The discs are stacked on the left-most rod, largest to smallest.
