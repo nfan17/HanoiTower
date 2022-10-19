@@ -7,6 +7,6 @@ No graphics Hanoi Tower game with solution generator in python. Includes solutio
   
 ## About
 - This program uses an implementation of a numpy-based arraystack to simulate rods holding disc objects. Game solutions are generated using a basic recursion solution.
-- Next goal is to implement a GUI next using PyGame 
+- Next goal is to implement a GUI next using PyGame.
 
 
